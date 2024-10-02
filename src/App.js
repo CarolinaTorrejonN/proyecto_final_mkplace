@@ -1,7 +1,7 @@
 // src/App.js
-import React from 'react';
+import React from 'react'; 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import HomePage from './pages/HomePage';
+import HomePage from './pages/HomePage'; 
 import LoginPage from './pages/LoginPage';
 import RegisterPage from './pages/RegisterPage';
 import ProfilePage from './pages/ProfilePage';
@@ -10,8 +10,7 @@ import GalleryPage from './pages/GalleryPage';
 import DetailPage from './pages/DetailPage';
 import CartPage from './pages/CartPage';
 import Navbar from './components/Navbar';
-import Footer from './components/Footer';
-
+import Footer from './components/Footer'; //importación del componente footer//
 function App() {
   return (
     <Router>

@@ -1,0 +1,30 @@
+/* src/App.css */
+
+/* Asegúrate de que el contenedor principal de la aplicación ocupe toda la altura de la ventana */
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  #root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;  /* El contenedor ocupará al menos el 100% de la ventana */
+  }
+  
+  .App {
+    flex: 1; /* El contenido principal ocupará el espacio restante */
+  }
+  
+  /* Estilos para el footer */
+  .footer {
+    background-color: #e17a7a;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: auto; /* Esto asegura que el footer se empuje al fondo */
+  }
+  
