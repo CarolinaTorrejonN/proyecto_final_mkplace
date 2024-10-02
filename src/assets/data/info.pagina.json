@@ -1,0 +1,68 @@
+
+[
+    {
+      "desc": "Preparación exámenes libres 1° a 4° básico.",
+      "id": "P001",
+      "img": "https://picsum.photos/200/300",
+      "asignaturas": ["Lenguaje", "Matemática", "Historia", "Ciencias y experimentación", "taller", "Sin inglés"],
+      "name": "Clases 1° a 4° básico",
+      "tiempo": "una hora cronológica por clase", 
+      "price": 80000
+    },
+    {
+      "desc": "Preparación exámenes libres 1° a 4° básico + inglés",
+      "id": "P002",
+      "img": "https://picsum.photos/200/300",
+      "asignaturas": ["Lenguaje", "Matemática", "Historia", "Ciencias y experimentación", "taller", "Incluye Inglés"],
+      "name": "Clases de 1° a 4° básico",
+      "tiempo": "Una hora cronológica por clase", 
+      "price": 100000
+    },
+    {
+        "desc": "Preparación exámenes libres 5° a 8° básico c/ Inglés obligatorio",
+        "id": "P003",
+        "img": "https://picsum.photos/200/300",
+        "asignaturas": ["Lenguaje", "Matemática", "Historia", "Ciencias y experimentación", "taller", "Inglés"],
+        "name": "Clases de 5° a 8° básico",
+        "tiempo":"Una hora cronológia por clase",
+        "price": 120000
+      },
+      {
+        "desc": "Asesoria pedagógica exámenes libres",
+        "id": "P004",
+        "img": "https://picsum.photos/200/300",
+        "asignaturas": ["Todas las asignaturas para preparación y todo lo que debes saber para implementar homeschooling"],
+        "name": "Asesoría indivivual por hora",
+        "tiempo":"1h,30min de asesoría individual",
+        "price": "25000" 
+      },
+      {
+        "desc": "Capacitación EIS (on line - grupal) para colegios",
+        "id": "P005",
+        "img": "https://picsum.photos/200/300",
+        "asignaturas": ["Pueden participar todas las áreas pedagógicas de la  comunidad escolar"],
+        "name": "Capacitacion EIS para espacios educativos (Máximo 20 personas)",
+        "tiempo":"1h,30min de asesoría grupal",
+        "price": "50000"
+      },
+      {
+        "desc": "Capacitación EIS (Presencial - grupal) para colegios",
+        "id": "P006",
+        "img": "https://picsum.photos/200/300",
+        "asignaturas": ["Pueden participar todas los componentes de la comunidad escolar"],
+        "name": "Capacitación EIS para espacios educativos (toda la escuela)",
+        "tiempo":"Una jornada de mínimo 4 horas, separadas por 1 hora de asesoría grupal",
+        "price": "250000 por especialista"
+      },
+      {
+        "desc": "Talleres de artes y oficios (on line)",
+        "id": "P007",
+        "img": "https://picsum.photos/200/300",
+        "asignaturas": ["Infancias hasta los 14 años de edad"],
+        "name": "Talleres varían semanalmente",
+        "tiempo":"Una hora cronológia por taller",
+        "price": "10000"
+      }
+  ]
+  
+  
